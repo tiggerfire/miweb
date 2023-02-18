@@ -1,0 +1,5 @@
+body{
+backgroup-color:blue;
+font-wight:bold;
+color: red;
+}
