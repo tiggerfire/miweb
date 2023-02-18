@@ -2,4 +2,5 @@ body{
 backgroup-color:blue;
 font-wight:bold;
 color: red;
+font-size: 18px;
 }
